@@ -29,11 +29,11 @@ Each user receives a daily positivity note—an emotionally intelligent message 
 5: Photoshop
 
 # AI
-> Chatgpt
-> Claude AI
-> AdobeFirefly AI
-> Upscale AI
-> Copilot
+1. Chatgpt
+2. Claude AI
+3. AdobeFirefly AI
+4. Upscale AI
+5. Copilot
 
 # 🗂️ Project Structure
 
