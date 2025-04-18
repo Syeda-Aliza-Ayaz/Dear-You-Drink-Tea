@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dear YOU, Drink Tea - Mental Wellbeing Quiz</title>
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="shortcut icon" href="./images/Chamomile.png" type="image/x-icon">
+</head>
+<body>
+  <div class="container">
+    <div id="home" class="screen active">
+      <h1>Dear YOU, Drink TEA 🍵</h1>
+      <p>Take a cozy quiz and discover the perfect tea, calming exercises, and a sweet note made just for you 💌</p>
+      <p class="fact">💡 1 in 4 people globally will experience a mental health issue at some point in their lives, yet many choose to stay undiagnosed due to stigma or lack of access to care.</p>
+      
+      <p class="disclaimer">Disclaimer: This quiz is not a diagnostic tool. If you're experiencing severe or persistent symptoms, please consult a licensed mental health professional.</p>
+      <button onclick="startQuiz()">Start Quiz</button>
+    </div>
+
+    <div id="quiz-container" class="screen hidden">
+      <div class="quiz-header">
+        <span id="question-counter">Question 1 of 15</span>
+      </div>
+      <h2 id="question-text"></h2>
+      <div id="options" class="options-grid"></div>
+      <div class="quiz-controls">
+        <button id="prev-btn" onclick="prevQuestion()">Previous</button>
+        <button id="next-btn" onclick="nextQuestion()">Next</button>
+      </div>
+    </div>
+
+    <div id="result" class="screen hidden">
+      <div class="tea-result-header">
+        <img id="tea-image" src="" alt="Tea Image">
+        <h2>Your Tea is... <span id="tea-name"></span> 🍵</h2>
+      </div>
+      <p id="tea-description"></p>
+      <h3>🌼 Exercises to Try:</h3>
+      <ul id="exercise-list"></ul>
+      <h3>💌 Your Positive Note:</h3>
+      <p id="affirmation"></p>
+      <button onclick="restartQuiz()">Take Again</button>
+    </div>
+  </div>
+
+  <script src="./js/data.js"></script>
+  <script src="./js/script.js"></script>
+</body>
+</html>
