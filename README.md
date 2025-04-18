@@ -5,7 +5,7 @@ Sure! Here's an expanded version of your key features section, with enriched des
 
 # 🌟 Key Features
 
-# 🧠 *Introspective Quiz Questions*  
+## 🧠 *Introspective Quiz Questions*  
 The app begins with a series of carefully crafted quiz questions designed to help users reflect on their emotions, thoughts, and current mental state. These questions are more than just surface-level check-ins—they are thoughtfully designed by mental wellness experts to encourage self-awareness and emotional introspection. By answering them, users not only feel heard but also gain clarity about what they might be experiencing internally.
 
 ## 🍵 *Personalized Tea Recommendations*  
@@ -19,9 +19,13 @@ Each user receives a daily positivity note—an emotionally intelligent message 
 
 # Tech stack
 1:Javascript
+
 2:AI
+
 3:Html
+
 4: Css
+
 5: Photoshop
 
 # AI
