@@ -1,6 +1,9 @@
 # Dear You, Drink Tea
 
 <b>Dear you, drink tea</b> is a gentle mental health awareness app designed like a warm hug for your soul. Through 15 thoughtfully crafted questions, it guides you on a journey of self-reflection—exploring your emotions, thoughts, and inner landscape. Based on your responses, it recommends a comforting tea, paired with mindfulness exercises or simple mental health practices to help you feel more grounded. Each tea comes with a short, uplifting message to spark positivity. It’s not just a quiz—it’s an emotional check-in, reminding you to pause, breathe, and care for yourself.
+
+**Demo Video:** [Watch the LinkedIn post](https://www.linkedin.com/posts/syeda-aliza-ayaz_mentalhealthmatters-dearyoudrinktea-aicreatathon-activity-7320482767828344832-aT0U?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFheKq4ByT1rS4vpNSH_wp_Yypa8BdkY1Zk)
+
 # 🌟 Key Features
 
 ## 🧠 *Introspective Quiz Questions*  
